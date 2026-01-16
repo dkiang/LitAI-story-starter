@@ -1,8 +1,6 @@
-# Story Project (Pixar Story Spine)
-
-You will create a story step by step using the Pixar Story Spine.  
-At each step, save and commit your work in GitHub Desktop.
-
+# Story Spine Studio: Learning Narrative Techniques from Klara
+You will create an ORIGINAL story using narrative techniques from "Klara and the Sun."
+*Important:* You're not retelling Ishiguro's scenes—you're borrowing his methods to tell your own story.
 
 ## Getting Started: Create and Publish Your Repo
 
@@ -33,92 +31,135 @@ Now you’re ready to edit `story.md` and follow the steps below.
 4. Click **Push origin** (top bar) to upload to GitHub.com.  
 
 **Commit Messages for Each Step**
-- Step 1: *Created setting and characters*  
-- Step 2: *Added conflict and inciting incident*  
-- Step 3: *Outlined rising action*  
-- Step 4: *Completed climax and resolution*  
-- Step 5: *Drafted scene and reflection*  
+- Step 1: *Extracted narrative techniques from pages 35-41*  
+- Step 2: *Created original story spine using Ishiguro's techniques*  
+- Step 3: *Compared generic vs. text-informed AI outputs*  
+- Step 4: *Revised scene with additional Ishiguro techniques*  
+- Step 5: *Completed reflection*  
 
 ---
 
 # Story Spine Steps
-## NOTE: Do not use title "Klara and the Sun" in any of your prompts.
-## Step 1: Setting & Characters
+## Step 1: Identify Narrative Techniques (10 minutes)
+
+From the Beggar Man scene, identify these THREE techniques Ishiguro uses.
+
+WRITE YOUR ANSWERS BELOW
+1. **Unique Perception:** How does Klara see something differently than a human would?
+Example: She sees sunlight as "nourishment" being "poured"
+Your example here (with page #): 
+2. **Pattern Tracking:** What does Klara obsessively count, measure, or monitor?
+Example: The angle of shadows, time until sun reaches the man
+Your example here (with page #): 
+3. **Misunderstanding:** What does Klara observe but interpret incorrectly?
+Example: Thinks the Sun literally healed the man
+Your example here (with page #): 
+
+COMMIT your code in GitHub Desktop!
 *(Commit message: "Created setting and characters")*
-Describe the main character and two supporting characters.
-Examples:
-Klara (main), Rosa & Josie (supporting)
-Mother (main), Josie & Klara (supporting)
-Josie (main), Klara & Rick (supporting)
+---
 
-**Your Story Elements:**  
-- **Setting (time + place):** 
-- **Main Character:**  
-  - Name: 
-  - Strengths: 
-  - Flaws: 
-  - Goal: 
-- **Supporting Characters:**  
-  - Character 1: 
-  - Character 2: 
+## Step 2: Build Your Original Story Spine (10 minutes)
+Create a completely NEW story using the three techniques you identified.
+Your story should NOT involve Klara, shops, AFs, or beggar men.
 
-- **Story Spine (beginning):**  
-  - *Once upon a time…*  
-  - *Every day…* 
+**Story Spine Requirements**  
+* Once upon a time… [Must use YOUR technique #1: unique perception]
+* Every day… [Must use YOUR technique #2: pattern tracking]
+* Until one day… [Something disrupts the pattern]
+* Because of that… [Must involve YOUR technique #3: misunderstanding]
+* Until finally…
+* Ever since that day…
+
+Example of what we mean by "using techniques, not plot":
+
+Ishiguro's technique: Character attributes healing power to the sun
+Your original story: Kindergartener believes the classroom goldfish controls who gets picked for show-and-tell
+
+WRITE YOUR ANSWERS BELOW
+**Your Original Story Spine**
+Once upon a time…
+Every day…
+Until one day…
+Because of that…
+Until finally…
+Ever since that day…
+
+COMMIT your code in GitHub Desktop!
+*(Commit message: "Created original story spine using Ishiguro's techniques")*
+---
+
+## Step 3: The AI Prompt Test (15 minutes)
+
+**Prompt A** - Generic Version (2 min to generate):
+Copy/paste this exactly:
+"Write a 100-word story opening about an unusual narrator observing daily patterns."
+
+*Output A* (PASTE AI RESPONSE HERE):
+
+**Prompt B** - Text-Informed Version (3 min to generate):
+Fill in the blanks with YOUR techniques from Step 1:
+"Write a 100-word story opening from the perspective of a [your character] who [your unique perception from Step 1], obsessively tracks [your pattern from Step 1], but doesn't understand [your misunderstanding from Step 1]. Use this observational style: [include a short quote from pages 35-41, under 15 words]."
+
+*Output B* (PASTE AI RESPONSE HERE):
+
+**Comparison (10 min)**:
+Highlight THREE specific differences between the outputs (WRITE YOUR ANSWERS BELOW)
+1.
+2.
+3.
+Which output could ONLY have been written by someone who read Klara? Why?
+
+
+COMMIT your code in GitHub Desktop!
+*(Commit message: "Compared generic vs. text-informed AI outputs")*
+---
+
+## Step 4: Revise and Expand (15 minutes)
+
+Take your better AI output and revise it:
+
+**Add these elements:**
+- One more specific technique from pages 35-41 (cite page #):
+- Adjust the narrator's voice to reflect their limitations
+- Ensure your "every day" pattern is visible in the scene
+
+PASTE YOUR REVISED SCENE BELOW:
+
+...
+
+COMMIT your code in GitHub Desktop!
+*(Commit message: "Revised scene with additional Ishiguro techniques")*
 
 ---
 
-## Step 2: Conflict & Inciting Incident
-*(Commit message: "Added conflict and inciting incident")*
+## Step 5: Rapid Reflection (5 minutes)
 
-**AI Prompt Ideas:**  
-- “What surprising event could disrupt my character’s everyday life?”  
-- “Give me three ideas for the ‘Until one day…’ part of the Story Spine.”  
+**Quick answers (2-3 sentences each):**
+ANSWER THESE QUESTIONS
+- Which technique from Ishiguro most shaped your story?
+- What specific difference did you notice between generic vs. text-informed prompting?
+- Could someone who skipped the reading create your Story Spine? Why not?
 
-**Your Story Spine (inciting incident):**  
-- *Until one day…*  
-
+COMMIT your code in GitHub Desktop!
+*(Commit message: "Completed reflection")*
 ---
 
-## Step 3: Rising Action
-*(Commit message: "Outlined rising action")*
+## Final Checklist
 
-**AI Prompt Ideas:**  
-- “What are three cause-and-effect events that could happen after the inciting incident?”  
-- “Give me two or three ideas for ‘Because of that…’ sentences that raise the stakes.”  
+Make sure all 5 commits are pushed to github.com using GitHub Desktop! (you need to click Push to Origin)
 
-**Your Story Spine (cause/effect events):**  
-- *Because of that…*  
-- *Because of that…*  
-- *Because of that…*  
+Your commit history should show:
+1. Extracted narrative techniques from pages 35-41
+2. Created original story spine using Ishiguro's techniques
+3. Compared generic vs. text-informed AI outputs
+4. Revised scene with additional Ishiguro techniques
+5. Completed reflection
 
----
+## Remember
 
-## Step 4: Climax & Resolution
-*(Commit message: "Completed climax and resolution")*
+You're learning to write WITH AI, not having AI write FOR you.
 
-**AI Prompt Ideas:**  
-- “Suggest three possible climaxes for this story arc.”  
-- “Help me finish the Story Spine with: ‘Until finally…’ and ‘And ever since that day…’”  
+The quality of your textual analysis determines the quality of your creative output.
 
-**Your Story Spine (climax and resolution):**  
-- *Until finally…*  
-- *And ever since that day…*  
-
----
-
-## Step 5: Draft Scene + Reflection
-*(Commit message: "Drafted scene and reflection")*
-
-**AI Prompt Ideas:**  
-- “Help me draft an opening scene (150 words max) that introduces the main character.”  
-- “Help me draft a climactic scene (150 words max) with strong action and emotion.”  
-
-**Draft Scene (150 words max, from either the beginning or climax):**  
-
----
-
-**Reflection:**  
-- How did AI help me brainstorm?  
-- What choices did I make myself?  
-- What would I change if I revised?  
+That's the lesson Ishiguro can teach us about both reading and writing in the age of AI.
