@@ -56,7 +56,7 @@ Example: Thinks the Sun literally healed the man
 Your example here (with page #): 
 
 COMMIT your code in GitHub Desktop!
-*(Commit message: "Created setting and characters")*
+*(Commit message: "Extracted narrative techniques from pages 35-41")*
 ---
 
 ## Step 2: Build Your Original Story Spine (10 minutes)
@@ -147,7 +147,7 @@ COMMIT your code in GitHub Desktop!
 
 ## Final Checklist
 
-Make sure all 5 commits are pushed to github.com using GitHub Desktop! (you need to click Push to Origin)
+Make sure all 5 commits are PUSHED to github.com using GitHub Desktop! (**you need to click Push to Origin**)
 
 Your commit history should show:
 1. Extracted narrative techniques from pages 35-41
